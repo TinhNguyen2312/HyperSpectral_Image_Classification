@@ -1,0 +1,24 @@
+data:
+  dataset_name: "sa"
+  dataset_dir: "./datasets"
+  patch_size: 8
+  train_val_ratio: 0.02
+  num_workers: 0
+
+model:
+  name: "gscvit"
+
+training:
+  model_dir: "./checkpoints/gscvit/sa/0"
+  batch_size: 128
+  epochs: 200
+  seed: 202401
+  loss:
+    name: "cross_entropy"
+  optimization:
+    optimizer:
+      name: "AdamW"
+      lr: 0.001
+      weight_decay: 0.05
+    scheduler:
+      name: "none"

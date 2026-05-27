@@ -1,0 +1,26 @@
+data:
+  dataset_name: "pu"
+  dataset_dir: "./datasets"
+  patch_size: 25         # HybridSN spatial patch: 25x25
+  train_val_ratio: 0.10  # 10% for train+val
+  num_workers: 0
+
+model:
+  name: "hybridsn"
+
+training:
+  model_dir: "./checkpoints/hybridsn/pu"
+  batch_size: 256
+  epochs: 200
+  seed: 202401
+  loss:
+    name: "cross_entropy"
+  optimization:
+    optimizer:
+      name: "Adam"
+      lr: 0.001
+      weight_decay: 0.0
+    scheduler:
+      name: "StepLR"
+      step_size: 50       # decay every 50 epochs
+      gamma: 0.9

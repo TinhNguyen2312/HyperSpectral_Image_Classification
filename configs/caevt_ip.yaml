@@ -1,0 +1,26 @@
+data:
+  dataset_name: "ip"
+  dataset_dir: "./datasets"
+  patch_size: 8
+  train_val_ratio: 0.10
+  num_workers: 0
+
+model:
+  name: "caevt"
+
+training:
+  model_dir: "./checkpoints/caevt/ip"
+  batch_size: 64
+  epochs: 200
+  seed: 202401
+  loss:
+    name: "cross_entropy"
+  optimization:
+    optimizer:
+      name: "Adam"
+      lr: 0.001
+      weight_decay: 0.0
+    scheduler:
+      name: "StepLR"
+      step_size: 50
+      gamma: 0.9

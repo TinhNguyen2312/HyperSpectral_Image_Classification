@@ -1,0 +1,26 @@
+data:
+  dataset_name: "pu"
+  dataset_dir: "./datasets"
+  patch_size: 1          # SpectralFormer pixel-mode (patches=1): pure spectral
+  train_val_ratio: 0.10  # 10% for train+val
+  num_workers: 0
+
+model:
+  name: "spectralformer"
+
+training:
+  model_dir: "./checkpoints/spectralformer/pu"
+  batch_size: 64
+  epochs: 300
+  seed: 202401
+  loss:
+    name: "cross_entropy"
+  optimization:
+    optimizer:
+      name: "Adam"
+      lr: 0.0005
+      weight_decay: 0.0
+    scheduler:
+      name: "StepLR"
+      step_size: 50       # decay every 50 epochs (= epochs//6)
+      gamma: 0.9

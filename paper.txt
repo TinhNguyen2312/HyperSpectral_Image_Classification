@@ -1,0 +1,59 @@
+Hyperspectral imaging
+A comprehensive survey for hyperspectral image classification: The evolution from conventional to transformers
+Recent advances of hyperspectral imaging technology and applications in agriculture
+Hyperspectral remote sensing in lithological mapping, mineral exploration, and environmental geology: an updated review
+Fine-grained classification of urban functional zones and landscape pattern analysis using hyperspectral satellite imagery
+Hyperspectral remote sensing of fire: State-of-the-art and future perspectives
+A review of hyperspectral image classification based on graph neural networks
+Advances in deep neural network-based hyperspectral image classification and feature learning with limited samples: a survey
+Customizing kernel functions for SVM-based hyperspectral image classification
+Advances in hyperspectral image classification: Earth monitoring with statistical learning methods
+Investigation of the random forest framework for classification of hyperspectral data
+Local manifold learning-based k-nearest-neighbor for hyperspectral image classification
+Spatial-spectral kernel sparse representation for hyperspectral image classification
+HybridSN: Exploring 3-D–2-D CNN feature hierarchy for hyperspectral image classification
+Spectral-spatial residual network for hyperspectral image classification: A 3-D deep learning framework
+A fast dense spectral-spatial convolution network framework for hyperspectral images classification
+SpectralFormer: Rethinking hyperspectral image classification with transformers
+Hyperspectral image classification using groupwise separable convolutional vision transformer network
+Semi-supervised classification with graph convolutional networks
+Spectral-spatial graph convolutional networks for semisupervised hyperspectral image classification
+Graph convolutional networks for hyperspectral image classification
+Spatial pooling graph convolutional network for hyperspectral image classification
+Hyperspectral image classification with context-aware dynamic graph convolutional network
+Weighted feature fusion of convolutional neural network and graph attention network for hyperspectral image classification
+Graph U-Net with topology-feature awareness pooling for hyperspectral image classification
+CNN-enhanced graph convolutional network with pixel- and superpixel-level feature fusion for hyperspectral image classification
+Semi-supervised multiscale dynamic graph convolution network for hyperspectral image classification
+Deep convolutional neural networks for hyperspectral image classification
+Deep supervised learning for hyperspectral data classification through convolutional neural networks
+Deep feature extraction and classification of hyperspectral images based on convolutional neural networks
+Spectral-spatial residual network for hyperspectral image classification: A 3-D deep learning framework
+HybridSN: Exploring 3-D–2-D CNN feature hierarchy for hyperspectral image classification
+A fast dense spectral-spatial convolution network framework for hyperspectral images classification
+Classification of hyperspectral image based on double-branch dual-attention mechanism network
+SpectralFormer: Rethinking hyperspectral image classification with transformers
+Hyperspectral image classification using groupwise separable convolutional vision transformer network
+Enhancing hyperspectral image classification through transformer-based contextualization and novel logarithmic convolutional techniques
+Mamba: Linear-time sequence modeling with selective state spaces
+3DSS-Mamba: 3D-spectral-spatial Mamba for hyperspectral image classification
+IGroupSS-Mamba: Interval group spatial-spectral Mamba for hyperspectral image classification
+Semi-supervised classification with graph convolutional networks
+Spectral-spatial graph convolutional networks for semisupervised hyperspectral image classification
+Graph convolutional networks for hyperspectral image classification
+Nonlocal graph convolutional networks for hyperspectral image classification
+Spatial pooling graph convolutional network for hyperspectral image classification
+Hyperspectral image classification with context-aware dynamic graph convolutional network
+Weighted feature fusion of convolutional neural network and graph attention network for hyperspectral image classification
+Graph U-Net with topology-feature awareness pooling for hyperspectral image classification
+CNN-enhanced graph convolutional network with pixel- and superpixel-level feature fusion for hyperspectral image classification
+Hybrid CNN-GCN network for hyperspectral image classification
+Semi-supervised multiscale dynamic graph convolution network for hyperspectral image classification
+Spectral-spatial dynamic graph convolutional network for hyperspectral image classification
+Feature-guided dynamic graph convolutional network for wetland hyperspectral image classification
+AF2GNN: Graph convolution with adaptive filters and aggregator fusion for hyperspectral image classification
+Hyperspectral image classification based on deep attention graph convolutional network
+Enhanced feature fusion of graph convolutional network and collaborative attention CNN network for hyperspectral image classification
+Global-local graph convolutional broad network for hyperspectral image classification
+Global-local manifold embedding broad graph convolutional network for hyperspectral image classification
+
